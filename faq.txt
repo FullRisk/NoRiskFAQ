@@ -7,7 +7,8 @@ Nein, man kann sich nicht bewerben
 Nein, man kann sich nicht auf die Whitelist kaufen
 Nein, man kann sich nicht durch ein Ticket für die Whitelist bewerben
 
-Zurzeit ist es nur möglich auf die Whitelist zu kommen indem du den Channel <#1258102216854732820> nutzt. In diesem Channel musst du über den Button, welcher sich nur aktiviert wenn neue Beta User gebraucht werden, der Beta beitreten.
+Zurzeit ist es nur möglich auf die Whitelist zu kommen indem du den Channel <#1258102216854732820> nutzt, oder du Invitet wirst. In dem Channel
+<#1258102216854732820> musst du über den Button, welcher sich nur aktiviert wenn neue Beta User gebraucht werden, der Beta beitreten.
 Ob neue Beta Tester benötigt werden, wird über EINEN oder MEHRERE der folgenden Wege kommuniziert:
 
 Im Video von Norisk auf https://www.youtube.com/@noriskk
