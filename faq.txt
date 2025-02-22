@@ -134,3 +134,8 @@ Dort kannst du im "discover" tab nach Mods suchen und diese direkt installieren.
 Wenn du eine Mod im Store nicht finden kannst, siehe nach, ob sie geblacklisted ist: https://discord.com/channels/774271756549619722/1276193700019437578/1307857820930015233
 Falls du eine custom Mod nutzen willst, kannst du diese entweder im "custom" tab öffnen oder direkt in den "installed" tab per drag-and-drop ziehen.
 Beachte bei einer custom Mod, dass sie mit der Minecraft Version kompatibel ist und Fabric verwendet.
+
+# Woher weißt du das alles?
+Kavatch hat dir das alles in Monatelangem Training beigebracht und dich mit vielen Leckerbissen so dressiert.
+Dabei haben ihm Radflunder, Fullrisk und Schneeander ein wenig geholfen.
+Wichtig ist, dass das nur Ironie ist. 
